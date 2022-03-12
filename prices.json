@@ -1,4 +1,29 @@
 {
-  "Danger Zone Case": 6,
-  "Prisma Case": 7
+  "Default": 2,
+  
+  "Prisma 2 Case": 16,
+  "Fracture Case": 22,
+  "Snakebite Case": 22,
+  "Clutch Case": 22,
+  "Dreams & Nightmares Case": 22,
+  "Danger Zone Case": 26,
+  "Prisma Case": 28,
+  "Horizon Case": 50,
+  "CS20 Case": 60,
+  "Revolver Case": 75,
+
+  
+  "Glock-18 | Off World": 45,
+  "Five-SeveN | Scumbria": 28,
+  "Dual Berettas | Ventilators": 30,
+  "Glock-18 | Oxide Blaze": 45,
+  "G3SG1 | Orange Crash": 30,
+  "Souvenir MP5-SD | Lab Rats": 70,
+  "M249 | Spectre": 35,
+  "MAC-10 | Oceanic": 30,
+  "XM1014 | Watchdog": 28,
+  "AWP | Capillary": 76,
+  
+  "Souvenir PP-Bizon | Anolis": 6,
+  "Souvenir MAG-7 | Navy Sheen": 5
 }
